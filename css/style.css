@@ -1,0 +1,32 @@
+*{                             /*  remove all default margin and padding */
+    padding: 0px;
+    margin: 0px;  
+    text-decoration: none;
+    scroll-behavior: smooth;       /*  to give smooth scrolling*/
+}
+.text-large {
+    font-size: 200%;
+  }
+.bg{
+    background-color: rgb(206, 206, 206);
+}
+
+.nav-link:hover{                    /*  set hover color on navbar buttons*/
+    color:rgb(8, 8, 8);
+}
+
+.navbar{                       /*  set nav bar height */
+    height: 11%;
+}
+
+.bord{                              /* class to border while arranging  */
+border: 1px solid rgb(3, 3, 3);   
+}
+
+.mar-t{                            /* to give extra margin */
+    margin-top: 6%;
+}
+ 
+.mar-l{
+    margin-left: 33%;
+}

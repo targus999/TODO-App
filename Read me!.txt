@@ -1,0 +1,4 @@
+I took insipration from the switzerland tourism website (https://www.myswitzerland.com/en-in/). I tried my best to re-create that website. 
+other than the bootstrap components i used a video tag to give a video backgorund to the index page, also gave scroll-transition as smooth for
+smooth transitions. I also make a small zoom effect to the cards of each district by using tranform function and make an "about" anchor tag that
+references to div with id=about.
